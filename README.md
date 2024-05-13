@@ -20,7 +20,7 @@ The Recipe Application is built using C# and consists of several classes:
 
 - Instructions on how to run the program:
 
-Step 1:		Double click on the file "Part1.exe" or run the program
+Step 1:		Double click on the file "Prog_Part2.exe" or run the program
 		      from Visual Studio.
 
 Step 2:		You will see the name Welcome to your Application and they is a Meun.
