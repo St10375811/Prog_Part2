@@ -241,7 +241,7 @@ public class Program
                             Console.WriteLine($"Total Calories: {totalCalories}");
                             if (totalCalories > 300)
                             {
-                                Console.WriteLine("WARNING: Total calories exceed 300!");
+                                Console.WriteLine("WARNING: Total calories exceed 300!!!!");
                             }
                         }
                         else
