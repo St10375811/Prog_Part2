@@ -60,7 +60,7 @@ public class Recipe
     // Method to display the recipe
     public void DisplayRecipe()
     {
-        Console.WriteLine("**********************");
+        Console.WriteLine("***********************");
         Console.WriteLine($"Recipe Name: {RecipeName}");
         Console.WriteLine("Ingredients:");
         foreach (var ingredient in Ingredients)
