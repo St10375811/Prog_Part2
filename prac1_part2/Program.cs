@@ -129,7 +129,7 @@ public class Program
             Console.WriteLine("5. Reset recipe");
             Console.WriteLine("6. Clear recipe data");
             Console.WriteLine("7. Exit Program");
-            Console.WriteLine("*");
+            Console.WriteLine("***********************");
 
             // Get user input for menu choice
             int choice;
