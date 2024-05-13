@@ -121,7 +121,7 @@ public class Program
             // Display the menu options
             Console.WriteLine("*****************");
             Console.WriteLine("Welcome To Your Recipe Application");
-            Console.WriteLine("*");
+            Console.WriteLine("***********************");
             Console.WriteLine("1. Enter new recipe");
             Console.WriteLine("2. Display all recipes");
             Console.WriteLine("3. Display recipe details");
