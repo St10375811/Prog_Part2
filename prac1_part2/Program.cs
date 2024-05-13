@@ -119,7 +119,7 @@ public class Program
         while (true) // Loop for menu-driven interaction
         {
             // Display the menu options
-            Console.WriteLine("*");
+            Console.WriteLine("*****************");
             Console.WriteLine("Welcome To Your Recipe Application");
             Console.WriteLine("*");
             Console.WriteLine("1. Enter new recipe");
